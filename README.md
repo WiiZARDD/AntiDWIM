@@ -1,2 +1,15 @@
+<p align="center">
+	<tr>
+		<td align="center" style="padding=0;width=50%;">
+			<img src="https://ibb.co/9vm1PVh" />
+		</td>
+	</tr>
+	<tr>
+
 # AntiDWIM
-Tired of getting crashed by skids on Black Ops 3 for using your Aimbot? Now you don't have to be! With AntiDWIM, You can cheat on Black Ops 3 and never fear of getting crashed by rage skids ever again!
+*AntiDWIM - DWIM Crash Exploit Bypass*
+    
+## License
+> Copyright © 2022 WiiZARDD
+
+This project is licensed under the [MIT License](https://opensource.org/licenses/mit-license.php) - see the [LICENSE](LICENSE) file for details.
