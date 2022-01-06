@@ -1,7 +1,7 @@
 <p align="center">
 	<tr>
 		<td align="center" style="padding=0;width=50%;">
-			<img src="https://ibb.co/9vm1PVh" />
+			<img src="https://imgur.com/nlcHGeh" />
 		</td>
 	</tr>
 	<tr>
